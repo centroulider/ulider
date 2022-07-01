@@ -1,0 +1,17 @@
+[
+   {
+     "titulo": "Coach de vida",
+     "descripcion": "Un entrenamiento experiencial para conocerte a fondo, salir de tu zona de confort y superar tus límites.",
+     "nombreImagen": "coach-de-vida"
+   },
+   {
+      "titulo": "Liderazgo y Emociones",
+      "descripcion": "Un entrenamiento experiencial para conocerte a fondo, salir de tu zona de confort y superar tus límites.",
+      "nombreImagen": "liderazgo-emociones"
+    },
+    {
+      "titulo": "Entrenamiento DTS",
+      "descripcion": "Un entrenamiento experiencial para conocerte a fondo, salir de tu zona de confort y superar tus límites.",
+      "nombreImagen": "dts"
+    }
+]

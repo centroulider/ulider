@@ -1,0 +1,20 @@
+[
+   {
+     "fecha": "Abr 1 - 2 - 3",
+     "hora": "10:00 - 17:00",
+     "lugar": "Bucaramanga",
+     "tituloEvento": "Entrenamiento DTS38",
+     "descripcionEvento": "Descubre todo tu potencial y ponlo al servcicio de ti mismo",
+     "textoBoton": "Agotado",
+     "urlBoton": "#"
+   },
+   {
+      "fecha": "Abril 6",
+      "hora": "07:30 - 09:00 pm",
+      "lugar": "Zoom",
+      "tituloEvento": "Noche de invitados DTS39",
+      "descripcionEvento": "Te invitamos a conocer DTS y todo lo que hacemos aquí",
+      "textoBoton": "Registrarme",
+      "urlBoton": "#"
+    }
+]
