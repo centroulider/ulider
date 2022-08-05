@@ -78,6 +78,10 @@ a:focus {
     background: linear-gradient(180deg, #0a0a3c, #010112);
 }
 
+.text-azul{
+    color: #0a0a3c;
+}
+
 /**********************************/
 /****** Loader & Back to Top ******/
 /**********************************/
@@ -619,7 +623,7 @@ a:focus {
 /******* Page Header CSS *******/
 /*******************************/
 .bannerEquipo{
-    background-color: #000000de;
+    background-color: #000000ae;
 }
 
 .imgBanner{
@@ -1142,50 +1146,44 @@ a:focus {
     color: #ffffff;
 }
 
+
+.gridEquipos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-area: content;
+    
+}
+
+
+
+@media (max-width: 770px) {
+    .gridEquipos{
+        grid-template-columns: 1fr;
+    }
+    }
+}
+
+
 /*******************************/
 /********** Legado CSS **********/
 /*******************************/
 
-.legado{
-    margin: 0 !important; 
-    margin-bottom: 20px!important;   
-}
-
-.legado .causes-item{
-    margin: 0 5px;
-}
-
-.legado .causes-img img{
-    margin-bottom: 0!important;
-}
-
-.imgLegados{
+.gridLegados{
     display: grid;
-    grid-auto-flow: column;
-    overflow-y: auto;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: none;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-area: content;
 }
 
-.imgLegados > img {
-    scroll-snap-align: start;
+.grid-item{
+    width: 33%!important;
 }
 
-.imgLegados img{
-    border-radius: 10px;
-    object-fit: contain;
-}
-
-.imgLegados::-webkit-scrollbar{
-    display: none;
-}
-
-@media (max-width: 575.98px) {
-    .legado .causes-img iframe{
-        margin: 10px 0;
+@media (max-width: 770px) {
+    .grid-item{
+        width: 50% !important;
     }
-}
+    }
+    }
 
 /*******************************/
 /********** Equipo CSS **********/
@@ -1552,12 +1550,12 @@ a:focus {
 }
 
 .event .event-content {
+    align-items: center;
     padding: 30px;
     display: flex;
 }
 
 .event .event-meta {
-    margin-bottom: 15px;
     display: flex;
     flex-direction: column;
 }
@@ -1616,7 +1614,6 @@ a:focus {
 }
 
 .event .btn.btn-custom {
-    margin-top: 20px;
     padding: 4px 10px;
 }
 
