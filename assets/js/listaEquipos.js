@@ -4,12 +4,12 @@ fetch('./assets/data/dataEquipos.json')
     let div = "";    
     data.forEach(function(equipo){
         div += `
-        <div class="causes-item">
+        <div class="causes-item my-3">
             <div class="causes-img">
                 <a href="./programas/dts/equipo.html?idEquipo=${equipo.idteam}"><img src="assets/img/equipos/dts${equipo.idteam}/dts${equipo.idteam}-1.jpg" title="${equipo.tipo} ${equipo.nombre}" alt="${equipo.tipo} ${equipo.nombre}"></a>
             </div>
             <div class="causes-text my-4">
-                <a href="./programas/dts/equipo.html?idEquipo=${equipo.idteam}"><h3>${equipo.tipo} <span class="text-warning">${equipo.nombre}</span></h3></a>
+                <a href="./programas/dts/equipo.html?idEquipo=${equipo.idteam}" class="d-flex"><img src="assets/img/equipos/dts${equipo.idteam}/dts${equipo.idteam}logo.jpg" alt="${equipo.nombre}" title="${equipo.nombre}" class="rounded-circle mr-2" style="width: 20px; height: 20px;"> <h3>${equipo.tipo} <span class="text-warning">${equipo.nombre}</span></h3></a>
                 <p>${equipo.mision}</p>
             </div>
         </div>
@@ -18,8 +18,6 @@ fetch('./assets/data/dataEquipos.json')
     document.getElementById('listaEquipos').innerHTML = div;
    
 });
-
-
 
 
 
