@@ -1,377 +1,382 @@
- [
-    {
-      "idteam": 34,
-      "nombre": "DTS34",
-      "identidad": "Los corazones",
-      "tipo": "Tribu",
-      "mision": "Somos la Tribu DTS34...",
-      "legado": "undefined",
-      "tituloLegado": "Entrega de una Papelería equipada a una madre cabeza de familia en Floridablanca Santander, para contriubuir a su sostenimiento.",
-      "descripcionLegado": "La tribu DTS34 llegó hasta el barrio La Cumbre del municipio de Bucaramanga en donde vive una madre cabeza de hogar, con 2 hijos en condición de discapacidad, sin ningún apoyo social para el sostenimiento de su familia.",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 33,
-      "nombre": "DTS33",
-      "identidad": "Las cabras",
-      "tipo": "Familia",
-      "mision": "Somos la Familia DTS33 y nos caracterizamos por accionar con amor, exito y felicidad",
-      "legado": "undefined",
-      "tituloLegado": "Entrega de un parque infantil en la escuela rural de la vereda Sucre del municipio de Mutiscua en Norte de Santander.",
-      "descripcionLegado": "undefined",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 32,
-      "nombre": "DTS32",
-      "identidad": "Los elefantes",
-      "tipo": "Dinastía",
-      "mision": "Somos la dinastía DTS32",
-      "legado": "undefined",
-      "tituloLegado": "Entrega de una Ludoteca en el Municipio de Silos en Norte de Santander.",
-      "descripcionLegado": "undefined",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 31,
-      "nombre": "DTS31",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 30,
-      "nombre": "DTS30",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 29,
-      "nombre": "DTS29",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 28,
-      "nombre": "DTS28",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 27,
-      "nombre": "DTS27",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 26,
-      "nombre": "DTS26",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 25,
-      "nombre": "DTS25",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 24,
-      "nombre": "DTS24",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 23,
-      "nombre": "DTS23",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 22,
-      "nombre": "DTS22",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 21,
-      "nombre": "DTS21",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 20,
-      "nombre": "DTS20",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 19,
-      "nombre": "DTS19",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 18,
-      "nombre": "DTS18",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 17,
-      "nombre": "DTS17",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 16,
-      "nombre": "DTS16",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 15,
-      "nombre": "DTS15",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 14,
-      "nombre": "DTS14",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 13,
-      "nombre": "DTS13",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 12,
-      "nombre": "DTS12",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 11,
-      "nombre": "DTS11",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 10,
-      "nombre": "DTS10",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 9,
-      "nombre": "DTS9",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 8,
-      "nombre": "DTS8",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 7,
-      "nombre": "DTS7",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 6,
-      "nombre": "DTS6",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 5,
-      "nombre": "DTS5",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 4,
-      "nombre": "DTS4",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 3,
-      "nombre": "DTS3",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 2,
-      "nombre": "DTS2",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    },
-    {
-      "idteam": 1,
-      "nombre": "DTS1",
-      "identidad": "undefinded",
-      "tipo": "undefinded",
-      "mision": "undefinded",
-      "legado": "undefinded",
-      "tituloLegado": "undefinded",
-      "descripcionLegado": "undefinded",
-      "colorEquipo": "#00A3C2"
-    }
-  ]
-
+[
+  {
+    "idteam": 38,
+    "nombre": "DTS38",
+    "identidad": "",
+    "tipo": "Manada",
+    "mision": "Somos DTS 38 una manada amorosa, unida, trabajadora, sencira y comprometida. dispuesta a inspirar 19 corazones y a servir a los niños vulnerables para hacer un mundo mejor.",
+    "Slogan": "Inspiramos con el corazón, impactamos con hechos",
+    "descripcionLegado": "entrega de ayudas a el hogar para niños con condiciones especiales de Malaga, Santander, Amare",
+    "colorEquipo": "#6d1e51"
+  },
+  {
+    "idteam": 37,
+    "nombre": "DTS37",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "DTS 37 somos una gran familia amorosa empoderada valiente y unida cuyo proposito es brindar afecto y felicidad al futuro de los niños vulnerables dispuestos a inspirar y transformar 31 corazones",
+    "Slogan": "Construyendo e Inspirando vidas con amor",
+    "descripcionLegado": "Restauración de una escuela en Rionegro Santander beneficiando a los niños vulnerables de la zona",
+    "colorEquipo": "#d7537c"
+  },
+  {
+    "idteam": 36,
+    "nombre": "DTS36",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos una familia unida y comprometida a servir con amor y alegria, dispuestos a transformar 72 Corazones dejando huella en niños valientes.",
+    "Slogan": "Alegres de servir con amor",
+    "descripcionLegado": "Dotación de un salón de lectura y estimulación para los niños de la Vereda San Rafael en San Joaquin",
+    "colorEquipo": "#025a4c"
+  },
+  {
+    "idteam": 35,
+    "nombre": "DTS35",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos una familia unida, inspiradora, alegre, amorosa y servicial con el compromiso de transformar 56 corazones y sembrar un legado de amor en niños",
+    "Slogan": "Amor fuera del tiempo",
+    "descripcionLegado": "Restauración de la Escuela .....",
+    "colorEquipo": "#341e51"
+  },
+  {
+    "idteam": 34,
+    "nombre": "DTS34",
+    "identidad": "Los corazones",
+    "tipo": "Tribu",
+    "mision": "DTS 34 somos una tribu de lideres extraordinaros, tolerantes y protagonistas en la transformación de 31 corazones dispuestos a empoderar mujeres.",
+    "Slogan": "Unidos por la fuerza del amor",
+    "descripcionLegado": "dotación de una papeleria a una madre cabeza de hogar que responde por dos niños con discapacidad cerebral desde hace 33 años",
+    "colorEquipo": "#00A3C2"
+  },
+  {
+    "idteam": 33,
+    "nombre": "DTS33",
+    "identidad": "Las cabras",
+    "tipo": "Familia",
+    "mision": "Somos la familia DTS33 y no caracterizamos por accionar con amor, éxito, inspiración, felicidad dispuestos a transformar 36 corazones dibujando sonrisas en los niños.",
+    "Slogan": "Somos transformación y lo creemos",
+    "descripcionLegado": "construcción de un parque infantil para los niños de la vereda de mutiscua",
+    "colorEquipo": "#bc3c15"
+  },
+  {
+    "idteam": 32,
+    "nombre": "DTS32",
+    "identidad": "Los elefantes",
+    "tipo": "Dinastia",
+    "mision": "DTS 32 Somos una dinastía de líderes poderosos, luchadores, unidos y comprometidos a transformar 24 CORAZONES llevando amor, alegría y esperanza a niños valientes.",
+    "Slogan": "Poderosos, Valientes y Dejando huella",
+    "descripcionLegado": "dotación de una ludoteca en la vereda de silos para los niños de esa localidad",
+    "colorEquipo": "#d65b2f"
+  },
+  {
+    "idteam": 31,
+    "nombre": "DTS31",
+    "identidad": "",
+    "tipo": "Linaje",
+    "mision": "DTS31 LINAJE PODEROSO Y VALIENTE, COMPROMETIDO EN INSPIRAR AMOR Y FUERZA EN 34 CORAZONES TRANSMITIENDO ALEGRIA EN LA VIDA DE MUJERES -  \"ACCIONAMOS CON AMOR, AUN CON MIEDO Y AUN SIN GANAS",
+    "Slogan": "Accionamos con amor aun con miedo y aun sin ganas",
+    "descripcionLegado": "se genero un entrenamiento de para mujeres con discapacidad fisica en Amor propio y restauración emocional",
+    "colorEquipo": "#cfcfcf"
+  },
+  {
+    "idteam": 30,
+    "nombre": "DTS30",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "DTS30 Somos una extraordinaria familia unida, amorosa, solidaria, comprometida y conectada con el propósito de inspirar 30 corazones e impactar positivamente la vida de los niños más vulnerables",
+    "Slogan": "Mereces lo que sueñas",
+    "descripcionLegado": "Dejar un legado en la vida de los niños, como equipo compartiendo con ellos desde el amor y el servicio, reconociendo que amor no es amor hasta que se regala",
+    "colorEquipo": "#f7c611"
+  },
+  {
+    "idteam": 29,
+    "nombre": "DTS29",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "DTS 29 somos una familia unida, decidida, poderosa, visionaria y amorosa. Comprometidos a transformar la vida de 74 corazones e inspirar a traves de nuestro actuar el cuidado del medio ambiente.",
+    "Slogan": "Solos vamos más rápido, juntos llegamos más lejos",
+    "descripcionLegado": "Siembra de arboles",
+    "colorEquipo": "#2a7830"
+  },
+  {
+    "idteam": 28,
+    "nombre": "DTS28",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos una familia integra, inmensamente agradecida, con determinación, responsabilidad, fuerza y amor para inspirar 43 corazones dispuestos a sumarsen a la transformación del mundo, construyendo un sendero para niños felices que sean la promesa de vida de nuestra sociedad.",
+    "Slogan": "inspiración transformadora de vidas",
+    "descripcionLegado": "Construcción de un espacio para niños",
+    "colorEquipo": "#b71e1c"
+  },
+  {
+    "idteam": 27,
+    "nombre": "DTS27",
+    "identidad": "",
+    "tipo": "undefined",
+    "mision": "undefined",
+    "Slogan": "undefined",
+    "descripcionLegado": "undefined",
+    "colorEquipo": "#00A3C2"
+  },
+  {
+    "idteam": 26,
+    "nombre": "DTS26",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos una familia alegre, unida, amorosa, valiente, y comprometida; impactando la vida de los niños e inspirando 67 corazones a cumplir sus sueños",
+    "Slogan": "transformadores inquebrantables de vidas !!locamente apasionados!!",
+    "descripcionLegado": "Mejoramiento de una zona para niños",
+    "colorEquipo": "#d22e52"
+  },
+  {
+    "idteam": 25,
+    "nombre": "DTS25",
+    "identidad": "",
+    "tipo": "Manada",
+    "mision": "Somos la manada dts 25 alegres, comprometidos, amorosos y extraordinarios dispuestos a inspirar 42 corazones, rompiendo barreras desde lo imposible, con excelencia, liderazgo y valentía; contribuyendo en la vida de los niños más vulnerables.",
+    "Slogan": "Guerreros inspirados en el poder del amor",
+    "descripcionLegado": "Mejoramiento del area de trabajo y vivienda de madres cabeza de familia",
+    "colorEquipo": "#e5e5d9"
+  },
+  {
+    "idteam": 24,
+    "nombre": "DTS24",
+    "identidad": "",
+    "tipo": "Tribu",
+    "mision": "Somos la tribu DTS24, valientes, soñadores, apasionados, exitosos, con caracter y amantes de la vida comprometidos a inspirar 41 corazones, brindando alegria, motivacion, amor y fuerza, dejando una contribucion a niños vulnerables entregando nuestra mision con excelencia.",
+    "Slogan": "Transformando corazones e inspirando con amor",
+    "descripcionLegado": "Mejoramiento de una zona infantil",
+    "colorEquipo": "#2e5ca3"
+  },
+  {
+    "idteam": 23,
+    "nombre": "DTS23",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos la familia DTS23, guerreros, amorosos, integros soñadores, comprometidos en excelencia en inspirar 64 corazones, dispuestos a apoyar desde el corazon a nuestros niños en estado de vulnerabilidad.",
+    "Slogan": "Fuerza, pasión y renovación en servicio con amor",
+    "descripcionLegado": "Una panadería totalmente equipada lista para producir fue entregada a la fundacion Nazareth, hoy la fundacion cuenta con una unidad de negocio auto sostenible.",
+    "colorEquipo": "#f3efef"
+  },
+  {
+    "idteam": 22,
+    "nombre": "DTS22",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos DTS 22: una familia respetuosa, comprometida,honesta y leal; en posicion de exelencia y responsabilidad,inspirando a 59 corazones para transformar la vida de los adultos mayores, siendo ejemplo de amor, pasion y entrega",
+    "Slogan": "Somos amor, pasión y entrega",
+    "descripcionLegado": "Remodelación del comedor del Hogar Betania",
+    "colorEquipo": "#384b8e"
+  },
+  {
+    "idteam": 21,
+    "nombre": "DTS21",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "DTS21 somos una familia amorosa,unida,comprometida,extraordinaria y apasionada.inspirando a 95 corazones desde lo imposible y lo extraordinario. otorgando un legado a niños vulnerables en nuestro servir",
+    "Slogan": "Ama, vive y sueña que la vida es bella",
+    "descripcionLegado": "Mejoramiento de la infraestructura de una  fundación",
+    "colorEquipo": "#d5b829"
+  },
+  {
+    "idteam": 20,
+    "nombre": "DTS20",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos dts20 una familia unida y comprometida en la excelencia y el servicio con amor inspiradores de 63 corazones dispuestos a trabajar apasionadamente por el bienestar y felicidad de los niños en estado de vulnerabilidad",
+    "Slogan": "De corazón a coraón , sirviendo con amor.",
+    "descripcionLegado": "Se enfocó en el bienestar de los niños en estado de vulnerabilidad",
+    "colorEquipo": "#eeaa5e"
+  },
+  {
+    "idteam": 19,
+    "nombre": "DTS19",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos DTS 19 una familia Humana, comprometida, valiente y solidaria que contribuye al bienestar de niños en situacion de vulnerabilidad. Resplandeciendo e inspirando a 71 corazones con nuestra luz, ejemplo y amor.",
+    "Slogan": "La mente determina lo que es posible , el corazon lo sobrepasa",
+    "descripcionLegado": "Ayudar a niños y aportar en algo al mejoramiento de su calidad de vida y por medio de la obra inspirarlos a ser mejor y a superarse",
+    "colorEquipo": "#506192"
+  },
+  {
+    "idteam": 18,
+    "nombre": "DTS18",
+    "identidad": "",
+    "tipo": "Familia",
+    "mision": "Somos una familia transformada desde el amor, la ternura, la pasión, entregados con berrenque, unidad e inspirando 90 corazones y dispuestos al servicio de nuestros niños vulnerables de Santander",
+    "Slogan": "Somos llama y fuerza inspiradora de amor",
+    "descripcionLegado": "Adecuar zonas en un colegio con espacios para el esparcimiento y desarrollo de los niños",
+    "colorEquipo": "#bf4c08"
+  },
+  {
+    "idteam": 17,
+    "nombre": "DTS17",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos DTS17, un equipo, poderoso, amoroso, guerrero, inspirador de 100 corazones, comprometido con la vida de los niños y niñas vulnerables de Santander",
+    "Slogan": "Rugiéndole a la vida, inspirando desde el corazón",
+    "descripcionLegado": "Instalación de una zona de juegos en un área de Chingale - Santander",
+    "colorEquipo": "#dfa064"
+  },
+  {
+    "idteam": 16,
+    "nombre": "DTS16",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos DTS 16, un Equipo guerrero, comprometido, disciplinado, auténtico y amoroso, con el firme propósito de inspirar 55 corazones, siendo una familia comprometida con la felicidad de los niños en estado de vulnerabilidad.",
+    "Slogan": "Sirviendo con amor, comprometidos con el corazón",
+    "descripcionLegado": "Mejoramiento de una zona escolar",
+    "colorEquipo": "#007528"
+  },
+  {
+    "idteam": 15,
+    "nombre": "DTS15",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos el equipo dts15 lideres, apasionados, generosos y comprometidos desde el corazon con niños es estado de vulnerabilidad   inspirando a 71 corazones  y construir juntos un mundo mejor",
+    "Slogan": "Apasionados sirviéndole a la vida",
+    "descripcionLegado": "Mejoramiento y adecuación de nuevos espacios en un colegio rural",
+    "colorEquipo": "#d22e6d"
+  },
+  {
+    "idteam": 14,
+    "nombre": "DTS14",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos dts14, un equipo de lideres fraternos, apasionados, unidos y disciplinados comprometidos con los procesos de transformacion personales y colectivos que inspiramos la vida de 64 corazones y construye un mundo mejor para niños y niñas en una escuela rural de bucaramanga.",
+    "Slogan": "Tejiendo sueños, transformando vidas",
+    "descripcionLegado": "Mejorar una escuela rural de bucaramanga, para contribuir a fortalecer el ambite escolar de los niños y niñas",
+    "colorEquipo": "#711fac"
+  },
+  {
+    "idteam": 13,
+    "nombre": "DTS13",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo responsable apasionado y divertido que acciona desde el corazon, para inspirar 34 vidas comprometidos en jugar a ver la vida de colores para generar sonrisas en los niños con capacidades especiales, transformando su calidad de vida",
+    "Slogan": "Dispuestos a Trabajar Siempre 130%",
+    "descripcionLegado": "Cenerar sonrisas en los niños con capacidades especiales, transformando su calidad de vida al mejorar las condiciones de la fundacion que los apoya",
+    "colorEquipo": "#123d8d"
+  },
+  {
+    "idteam": 12,
+    "nombre": "DTS12",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo confiable, organizado, amoroso e inspirador de 26 corazones, comprometidos en la transformación de vida de madres adolescentes",
+    "Slogan": "Transforma, Ama, Inspira, Sirve",
+    "descripcionLegado": "Apoyo a las madres adolescentes",
+    "colorEquipo": "#00b7c1"
+  },
+  {
+    "idteam": 11,
+    "nombre": "DTS11",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un Equipo comprometido en Amor, Alegria, Honestidad, Disciplina y Libertad, inspirados en transformar 32 corazones y contribuir con los niños en el desarrollo de una mejor calidad de vida.",
+    "Slogan": "Sembrando con amor para cosechar vida",
+    "descripcionLegado": "Apoyo en la mejora de un espacio para el desarrollo de los niños del lugar",
+    "colorEquipo": "#df1364"
+  },
+  {
+    "idteam": 10,
+    "nombre": "DTS10",
+    "identidad": "",
+    "tipo": "Líderes",
+    "mision": "Somos lideres comprometidos apasionado en excelencia, dejando con sus acciones inspirando a 30 corazones y crendo nuevas realidades en la fundacion semilla de ilusion.",
+    "Slogan": "Dejando huellas, inspirando vidas",
+    "descripcionLegado": "Adecuación de la sala audiovisual de una fundación",
+    "colorEquipo": "#8C2038"
+  },
+  {
+    "idteam": 9,
+    "nombre": "DTS9",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo comprometido y fortalecido en amor, solidaridad y servicio, mejorando el ambiente en pro del bienestar de los niños",
+    "Slogan": "Lideres creando sueños, transformando realidades",
+    "descripcionLegado": "Apoyo en la fundación semilla de ilusión.",
+    "colorEquipo": "#1bb718"
+  },
+  {
+    "idteam": 8,
+    "nombre": "DTS8",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo amoroso, responsable y apasionado que inspira a 20 corazones a transformar sus vidas, enfocados en un compromiso social, recuperando y reforestando espacios perdidos, mejorando la calidad de vida y generando conciencia ambiental",
+    "Slogan": "Compromiso y pasión fuente de transformación",
+    "descripcionLegado": "Se plantaron árboles en una adecuacion de Girón",
+    "colorEquipo": "#007097"
+  },
+  {
+    "idteam": 7,
+    "nombre": "DTS7",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo lider, fortalecido y comprometido con una accion de transformacion personal y social, inspirando 30 corazones sin limites ni barreras en sus vidas. nuestro legado es lograr reconocimiento y la inclusion social de personas con sindrome de down en nuestra sociedad.",
+    "Slogan": "Empoderando e Inspirando vidas",
+    "descripcionLegado": "Adecuacion de un espacio de personas con sindrome de down en piedecuesta",
+    "colorEquipo": "#4c173b"
+  },
+  {
+    "idteam": 6,
+    "nombre": "DTS6",
+    "identidad": "",
+    "tipo": "Jugadores",
+    "mision": "Somos dts6, jugadores de primera linea, apasionados, empoderados que con confianza y determinación vamos a inspirar 20 corazones. comprometidos a impactar la vida de niños en bucaramanga, para mejorar su accionar en el futuro",
+    "Slogan": "Inspiradores, apasionados, logrando imposibles.",
+    "descripcionLegado": "Remodelar el espacio para la formación de unos niños",
+    "colorEquipo": "#cfac56"
+  },
+  {
+    "idteam": 5,
+    "nombre": "DTS5",
+    "identidad": "",
+    "tipo": "Líderes",
+    "mision": "Somos lideres amorosos, emprendedores y comprometidos a inspirar 28 corazones y 50 niños como lideres juveniles en un colegio en santander.",
+    "Slogan": "Líderes sirviendo y transformando al mundo",
+    "descripcionLegado": "Remodelar el espacio para la formación de unos niños",
+    "colorEquipo": "#b91840"
+  },
+  {
+    "idteam": 4,
+    "nombre": "DTS4",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo de servicio, respeto, comprometidos, llenos de amor transformando 12 corazones y llevando nuestro...",
+    "Slogan": "Lo imposible lo podemos lograr",
+    "descripcionLegado": "Ayudar a mejorar la vida de niños y niñas",
+    "colorEquipo": "#d12e68"
+  },
+  {
+    "idteam": 3,
+    "nombre": "DTS3",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo, alegre, creativo y energico, comprometido con inspirar 8 corazones y un grupo de madres cabeza de familia",
+    "Slogan": "Pon todo lo que eres en lo mínimo que hagas",
+    "descripcionLegado": "Ayudar a un grupo de madres cabeza de familia a desarrollar competencias en varias áreas para mejorar su calidad de vida",
+    "colorEquipo": "#cf4809"
+  },
+  {
+    "idteam": 2,
+    "nombre": "DTS2",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo apasionado, con determinacion vamos a crear imposibles, transformando e inspirando 15 corazones y desde el servicio y el amor llevamos alegria a los niños",
+    "Slogan": "Creadores de Imposibles",
+    "descripcionLegado": "Aportar al desarrollo de los niños en distintas facetas",
+    "colorEquipo": "#183784"
+  },
+  {
+    "idteam": 1,
+    "nombre": "DTS1",
+    "identidad": "",
+    "tipo": "Equipo",
+    "mision": "Somos un equipo de lideres que transformamos nuestras vidas para servir en excelencia, con pasión, alegría y compromiso, inspirando 30 corazones y motivando niños para la construcción de sus sueños",
+    "Slogan": "Si lo puedes soñar lo puedes crear",
+    "descripcionLegado": "Donar libros a la biblioteca de un colegio y mejorar su espacio",
+    "colorEquipo": "#79b35c"
+  }
+]
