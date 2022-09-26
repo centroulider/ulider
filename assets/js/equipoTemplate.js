@@ -18,7 +18,7 @@ fetch('../../assets/data/dataEquipos.json')
    
    const {idteam, nombre, identidad, tipo, mision, tituloLegado, descripcionLegado, colorEquipo} = newArray[0];
    
-         const imgBannerEquipo = 'url(../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'-1.jpg)'
+         const imgBannerEquipo = 'url(../../assets/img/equipos/DTS'+idteam+'/DTS'+idteam+'-1.jpg)'
          const identityTeam = tipo+" "+nombre
          const srcImgLogo = '../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'Logo.jpg'
          const altImgLogo = 'Ulider DTS'+idteam+''
