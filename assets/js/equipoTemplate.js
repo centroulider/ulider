@@ -20,7 +20,7 @@ fetch('../../assets/data/dataEquipos.json')
    
          const imgBannerEquipo = 'url(../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'-1.jpg)'
          const identityTeam = tipo+" "+nombre
-         const srcImgLogo = '../../assets/img/equipos/dts'+idteam+'/DTS'+idteam+'logo.jpg'
+         const srcImgLogo = '../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'Logo.jpg'
          const altImgLogo = 'Ulider DTS'+idteam+''
          const titleImgLogo = 'Ulider DTS'+idteam+''
          const logoBorder = 'border: 5px solid'+ colorEquipo;
@@ -41,7 +41,7 @@ fetch('../../assets/data/dataEquipos.json')
          $('head').append( '<meta property="type" content="website" />' );
          $('head').append( '<meta property="url" content="'+siteName+'/programas/dts/dts'+idteam+'" />' );
          $('head').append( '<meta name="author" content="'+autor+'">' );
-         $('head').append( '<link rel="shortcut icon" type="image/jpeg" href="../../assets/img/equipos/dts'+idteam+'/dts'+idteam+'Logo.jpeg" />' );
+         $('head').append( '<link rel="shortcut icon" type="image/jpg" href="../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'Logo.jpg" />' );
          $('head').append( '<meta name="keywords" content="DTS ulider, Ulider, DTS, fundacion en bucaramanga, legado dts'+idteam+", "+identidad+'" />' );
          $('head').append( '<meta name="dcterms.rightsHolder" content="'+companyName+'" />' );
          $('head').append( '<meta property="og:title" content="'+tipo+" "+nombre+'" />' );
