@@ -25,7 +25,7 @@ fetch('../../assets/data/dataEquipos.json')
          const titleImgLogo = 'Ulider DTS'+idteam+''
          const logoBorder = 'border: 5px solid'+ colorEquipo;
          const teamMission = mision;
-         const srcImgPerfil = '../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'-1.jpg'
+         const srcImgPerfil = '../../assets/img/equipos/DTS'+idteam+'/DTS'+idteam+'-1.jpg'
          const altImgPerfil = 'Ulider DTS'+idteam+''
          const titleImgPerfil = 'Ulider DTS'+idteam+''
          const tittleLegade = tituloLegado
