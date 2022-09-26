@@ -80,12 +80,12 @@ fetch('../../assets/data/dataEquipos.json')
          perfilImage.title = titleImgPerfil
          document.querySelector('.imgPerfilTeam').appendChild(perfilImage);
          // Inserta el título del legado del equipo
-         const tituloLegadoEquipo = document.createElement('h5')
+         const tituloLegadoEquipo = document.createElement('h4')
          tituloLegadoEquipo.classList = 'text-center'
          tituloLegadoEquipo.textContent = tittleLegade
          document.querySelector('.tittleLegade').appendChild(tituloLegadoEquipo);
          // Inserta la descripción del legado del equipo
-         const descripcionLegadoEquipo = document.createElement('p')
+         const descripcionLegadoEquipo = document.createElement('h4')
          descripcionLegadoEquipo.classList = 'pl-3'
          descripcionLegadoEquipo.textContent = descLegado
          document.querySelector('.teamLegadeDesc').appendChild(descripcionLegadoEquipo);
