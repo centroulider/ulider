@@ -105,32 +105,32 @@ fetch('../../assets/data/dataEquipos.json')
 
 // Inserta a lista de los otros equipos
 
-fetch('../../assets/data/dataEquipos.json')
-.then(response => response.json() )
-.then(datas => {
-const newArray = datas.filter(filtra=>{
-   return filtra.idteam > 0;
-})
-let div = "";    
-newArray.forEach(function(equipo){
-    div += `             
-      <div id="dts${equipo.idteam}" class="post-item ">
-         <div class="post-img img-thumbnail">
-            <a href="./equipo.html?idEquipo=${equipo.idteam}"><img src="../../assets/img/equipos/DTS${equipo.idteam}/dts${equipo.idteam}-1.jpg"/></a>
-         </div>
-         <div class="post-text text-center ml-2">
-            <h3><a href="./equipo.html?idEquipo=${equipo.idteam}">${equipo.tipo} ${equipo.nombre}</a></h3>
-            <div class="post-meta ">
-               <p><a href="./equipo.html?idEquipo=${equipo.idteam}">${equipo.identidad}</a></p>
-            </div>
-         </div>
-      </div>            
-    `;
-});
-document.getElementById('otrosEquipos').innerHTML = div;
+// fetch('../../assets/data/dataEquipos.json')
+// .then(response => response.json() )
+// .then(datas => {
+// const newArray = datas.filter(filtra=>{
+//    return filtra.idteam > 0;
+// })
+// let div = "";    
+// newArray.forEach(function(equipo){
+//     div += `             
+//       <div id="dts${equipo.idteam}" class="post-item ">
+//          <div class="post-img img-thumbnail">
+//             <a href="./equipo.html?idEquipo=${equipo.idteam}"><img src="../../assets/img/equipos/dts${equipo.idteam}/dts${equipo.idteam}-1.jpg"/></a>
+//          </div>
+//          <div class="post-text text-center ml-2">
+//             <h3><a href="./equipo.html?idEquipo=${equipo.idteam}">${equipo.tipo} ${equipo.nombre}</a></h3>
+//             <div class="post-meta ">
+//                <p><a href="./equipo.html?idEquipo=${equipo.idteam}">${equipo.identidad}</a></p>
+//             </div>
+//          </div>
+//       </div>            
+//     `;
+// });
+// document.getElementById('otrosEquipos').innerHTML = div;
 
 
-});
+// });
 
 
 
