@@ -18,14 +18,14 @@ fetch('../../assets/data/dataEquipos.json')
    
    const {idteam, nombre, identidad, tipo, mision, tituloLegado, descripcionLegado, colorEquipo} = newArray[0];
    
-         const imgBannerEquipo = 'url(../../assets/img/equipos/dts'+idteam+'/dts'+idteam+'-1.jpg)'
+         const imgBannerEquipo = 'url(../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'-1.jpg)'
          const identityTeam = tipo+" "+nombre
-         const srcImgLogo = '../../assets/img/equipos/dts'+idteam+'/dts'+idteam+'logo.jpeg'
+         const srcImgLogo = '../../assets/img/equipos/dts'+idteam+'/DTS'+idteam+'logo.jpg'
          const altImgLogo = 'Ulider DTS'+idteam+''
          const titleImgLogo = 'Ulider DTS'+idteam+''
          const logoBorder = 'border: 5px solid'+ colorEquipo;
          const teamMission = mision;
-         const srcImgPerfil = '../../assets/img/equipos/dts'+idteam+'/dts'+idteam+'-1.jpg'
+         const srcImgPerfil = '../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'-1.jpg'
          const altImgPerfil = 'Ulider DTS'+idteam+''
          const titleImgPerfil = 'Ulider DTS'+idteam+''
          const tittleLegade = tituloLegado
@@ -116,7 +116,7 @@ newArray.forEach(function(equipo){
     div += `             
       <div id="dts${equipo.idteam}" class="post-item ">
          <div class="post-img img-thumbnail">
-            <a href="./equipo.html?idEquipo=${equipo.idteam}"><img src="../../assets/img/equipos/dts${equipo.idteam}/dts${equipo.idteam}-1.jpg"/></a>
+            <a href="./equipo.html?idEquipo=${equipo.idteam}"><img src="../../assets/img/equipos/DTS${equipo.idteam}/dts${equipo.idteam}-1.jpg"/></a>
          </div>
          <div class="post-text text-center ml-2">
             <h3><a href="./equipo.html?idEquipo=${equipo.idteam}">${equipo.tipo} ${equipo.nombre}</a></h3>
