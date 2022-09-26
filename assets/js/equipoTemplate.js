@@ -49,7 +49,7 @@ fetch('../../assets/data/dataEquipos.json')
          $('head').append( '<meta property="og:description" content="'+descLegado+'" />' );
          $('head').append( '<meta property="og:type" content="website" />' );
          $('head').append( '<meta property="og:url" content="'+siteName+'/programas/dts/dts'+idteam+'" />' );
-         $('head').append( '<meta property="og:image" content="../../assets/img/equipos/DTS34/dts34Logo.jpg" />' );
+         $('head').append( '<meta property="og:image" content="../../assets/img/equipos/DTS'+idteam+'/dts'+idteam+'Logo.jpg" />' );
          
          
          // Inserta la imagen de fondo del banner
