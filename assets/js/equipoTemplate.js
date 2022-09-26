@@ -36,12 +36,12 @@ fetch('../../assets/data/dataEquipos.json')
 
          $('head').append( '<meta charset="UTF-8">' );
          $('head').append( '<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">' );
-         $('head').append( '<title>'+tipo+" "+nombre+'</title>' );
+         $('head').append( '<title>'+tipo+" "+nombre+" "+"Ulider"'</title>' );
          $('head').append( '<meta name="description" content="'+descLegado+'">' );  
          $('head').append( '<meta property="type" content="website" />' );
          $('head').append( '<meta property="url" content="'+siteName+'/programas/dts/dts'+idteam+'" />' );
          $('head').append( '<meta name="author" content="'+autor+'">' );
-         $('head').append( '<link rel="shortcut icon" type="image/jpeg" href="../../assets/img/equipos/dts'+idteam+'/dts'+idteam+'Logo.jpeg" />' );
+         $('head').append( '<link rel="shortcut icon" type="image/jpeg" href="../../assets/img/equipos/dts'+idteam+'/dts'+idteam+'Logo.jpg" />' );
          $('head').append( '<meta name="keywords" content="fundacion en bucaramanga, ulider, dts, legado dts'+idteam+", "+identidad+'" />' );
          $('head').append( '<meta name="dcterms.rightsHolder" content="'+companyName+'" />' );
          $('head').append( '<meta property="og:title" content="'+tipo+" "+nombre+'" />' );
@@ -49,7 +49,7 @@ fetch('../../assets/data/dataEquipos.json')
          $('head').append( '<meta property="og:description" content="'+descLegado+'" />' );
          $('head').append( '<meta property="og:type" content="website" />' );
          $('head').append( '<meta property="og:url" content="'+siteName+'/programas/dts/dts'+idteam+'" />' );
-         $('head').append( '<meta property="og:image" content="../../assets/img/equipos/dts34/dts34Logo.jpeg" />' );
+         $('head').append( '<meta property="og:image" content="../../assets/img/equipos/DTS34/dts34Logo.jpg" />' );
          
          
          // Inserta la imagen de fondo del banner
